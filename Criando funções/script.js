@@ -8,5 +8,5 @@ function fazerAcao(certo) {
     var titulo = document.getElementById("titulo");
     var mudar = prompt("Mude");
 
-    titulo.innerHTML = certo+" "+mudar
+titulo.innerHTML = certo+" "+mudar
 }
